@@ -30,8 +30,8 @@ Mejorar el acceso a información municipal de manera rápida, clara y automatiza
 ### 1. Clonar repositorio
 
 ```bash
-git clone https://github.com/FcoINF/EVA2_MUNI.git
-cd EVA2_MUNI
+git clone https://github.com/FcoINF/EVA3_MUNI.git
+cd EVA3_MUNI
 ```
 
 ### 2. Instalar dependencias
